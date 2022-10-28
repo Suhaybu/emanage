@@ -6,7 +6,7 @@ import java.io.IOException;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.ss.util.CellReference;
 
-public class sampleCode {
+public class SampleCode {
 
     public static void main(String[] args) {
 
