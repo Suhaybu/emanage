@@ -1,7 +1,7 @@
 package swe;
 
 
-public class xIsChangeCheck {
+public class xlsChangeCheck {
 	
 	public boolean changeCheck (int newValue, int oldValue)  {
 		if (newValue > oldValue) {
