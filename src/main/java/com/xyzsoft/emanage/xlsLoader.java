@@ -52,9 +52,7 @@ public class xlsLoader {
                         default:
                             System.out.println("Unknown");
                     }
-                    System.out.println(" | ");
                 }
-                System.out.println(" | ");
             }
         }
         return null;
